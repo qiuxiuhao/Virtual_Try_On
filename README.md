@@ -14,7 +14,7 @@
 # 开山论文
 | 会议 | 论文 | 代码仓库 | 数据集 | baseline | 阅读 | 复现 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 2018CVPR | [VITON: An Image-based Virtual Try-on Network][VITON_paper] | [code][VITON_code]  |  |  | ☑ | ☐ |
+| 2018CVPR | [VITON: An Image-based Virtual Try-on Network][VITON_paper] | [code][VITON_code]  | Zalando | 首提 | ☑ | ☐ |
 | 2018ECCV | [Toward Characteristic-Preserving Image-based Virtual Try-On Network][CP_VITON_paper] | [code][CP_VITON_code]  |  |  | ☐  | ☐ |
 
 

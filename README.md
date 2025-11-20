@@ -4,7 +4,7 @@
 | 会议 | 论文 | 代码仓库 | 数据集 | baseline | 阅读 | 复现 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 2025CVPR | [BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training][BooW_VTON_paper] | [code][CVPR2025_BooW_VTON]  |  |  | ☐ | ☐ |
-| 2025CVPR | [VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction][VTON360_paper] | [code][VTON360_code]  | Thuman2.0;MVHuman-Net | Dream Waltz;Gaussitr;TIP-Editor | ☑ | ☐ |
+| 2025CVPR | [VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction][VTON360_paper] | [code][VTON360_code]  | Thuman2.0;MVHuman-Net | Dream-Waltz;Gaussitr;TIP-Editor | ☑ | ☐ |
 
 [VTON360_code]:https://github.com/scnuhealthy/VTON360
 [VTON360_paper]:https://cvpr.thecvf.com/virtual/2025/poster/34526
